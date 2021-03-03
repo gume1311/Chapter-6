@@ -106,3 +106,27 @@ int main() {
 }
 
 ```
+
+### Exercise 6-6: Write a program that, given the number of hours an employee
+worked and the hourly wage, computes the employee's weekly pay. Count any
+hours over 40 as overtime at time and a half.
+
+```c
+#include <stdio.h>
+using namespace std;
+
+int main (){
+int pay
+int hours
+int payweek
+
+printf("}enter the hours: ");
+   scanf("%d", &hours);
+   
+printf("}enter the pay: ");
+   scanf("%d", &pay);
+payweek= ((pay)(hours));
+
+printf("} the pay must be" payweek);
+   
+```
