@@ -35,10 +35,10 @@ of quarters, dimes, nickels, and pennies needed.
 
 char line[100];             
 int cents;                  
-int quarters = 0;           
-int dimes = 0;             
-int nickels = 0;           
-int pennies = 0;            
+int quarters         
+int dimes            
+int nickels        
+int pennies          
 
 int main() {
 	printf("Enter the number of cents we have: ");
